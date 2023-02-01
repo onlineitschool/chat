@@ -1,0 +1,39 @@
+h3 {    /* Стиль для сообщений пользователей */
+    font-weight: normal;
+    font-size: 20;
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 15px; /* Уголки */
+    min-width: 10%;
+    max-width: 80%;
+    width: fit-content;
+    background: #8c8ed9;
+    text-align: left;    
+    margin-left: 10px; 
+    margin-right: auto; 
+    margin-top: 3px; 
+    margin-bottom: 3px;
+}
+
+h4 { /* Стиль для сообщений других пользователей */
+        font-weight: normal;
+        font-size: 20;
+        padding: 10px; /* Поля вокруг текста */
+        border-radius: 15px; /* Уголки */
+        min-width: 10%;
+        max-width: 80%;
+        width: fit-content;
+        background: #7aec41;
+		text-align: right;    
+        margin-left: 10px; 
+		margin-right: 3px; 
+        margin-top: 3px; 
+		margin-bottom: 3px;
+}
+
+div { /* Стиль для чата */
+border: 2px solid rgb(27, 196, 95);
+height: 500px;
+overflow: auto;
+width: 500px;
+align: center;
+}

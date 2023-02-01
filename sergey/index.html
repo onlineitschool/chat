@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script src="jquery360.js"></script>
+    <link rel="stylesheet" href='chat.css'>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sergey chat</title>
+</head>
+<body>
+Chat
+<p>Число сообщений:  <b id="report"></b></p>
+<div id="block"></div> 
+
+<p id="my_mame_is">My name:</p>
+<input id="input_name" value="Name"></input>
+<button id="button_name" onclick="send_my_name()">Set My Name</button>
+
+<button id="log_out" onclick="blog_out()">Log out</button>
+
+<p id="send_message">My message:</p>
+<input id="my_message"></input>
+<br>
+<button id="button_message" onclick="send_my_message()">Send Message</button> 
+
+</body>
+<script>
+$(document.getElementById("log_out")).hide();
+// Прячем отправку сообщений.
+$(document.getElementById("send_message")).hide();
+$(document.getElementById("my_message")).hide();
+$(document.getElementById("button_message")).hide();
+
+'use strict'
+var last_message = 0
+var name
+
+window.onload = function() {
+console.log("mes window.onload")
+// Выясняем номер последнего сообщения
+$.ajax
+        ({
+        url: "https://chat.v1.prod.online-it-school.com/get_latest_msg_id",
+        success: function(x)
+            {   
+            document.getElementById("report").innerHTML = x;
+            last_message = x;
+            get_msg()
+            },
+        });
+}
+
+// Получаем от API все старые сообщения.
+function get_msg(){
+var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + last_message;
+console.log(url)
+fetch(url)
+.then((response) => response.json())    
+.then((data) => build_chat(data));
+
+};
+
+// Пишем все старые сообщения в окно чата
+function build_chat(data){
+var Message=null
+for (var i = 0; i < data.length; i++){
+    var k = data.length - i - 1;
+    var msg = data[k];
+    if (msg["username"] == name) 
+    {    
+        Message = document.createElement("h4");
+    }else
+    {    
+        Message = document.createElement("h3");
+    }    
+    Message.innerHTML = msg["username"] + ": " + msg["message"];
+    document.getElementById("block").appendChild(Message);
+    document.getElementById("block").scrollTop = block.scrollHeight;    
+}
+};
+
+function send_my_name(){
+// Имя сохраняется и выводится на экран.
+name = document.getElementById("input_name").value;
+document.getElementById("my_mame_is").innerHTML=name + ":";
+
+// Прячем окно ввода имени и кнопку.
+$(document.getElementById("input_name")).hide();
+$(document.getElementById("button_name")).hide();
+$(document.getElementById("log_out")).show();
+
+// Открываем отправку сообщений.          
+$(document.getElementById("send_message")).show();
+$(document.getElementById("my_message")).show();       
+$(document.getElementById("button_message")).show();
+};
+
+function blog_out(){
+$(document.getElementById("input_name")).show();
+$(document.getElementById("button_name")).show();
+$(document.getElementById("log_out")).hide();
+
+$(document.getElementById("send_message")).hide();
+$(document.getElementById("my_message")).hide();       
+$(document.getElementById("button_message")).hide();
+}
+
+// Пользователь отправляет свое сообщение.
+function send_my_message()
+{
+// Выводим сообщение пользователя на зеленом фоне.
+my_message = document.getElementById("my_message").value;
+myMessage = document.createElement("h4");
+myMessage.innerHTML = name + ": " + my_message;
+document.getElementById("block").appendChild(myMessage);
+document.getElementById("block").scrollTop = block.scrollHeight;
+
+// Отправляем сообщение на сервер.
+console.log("Send Message")
+
+var data = {
+    "name" : name,
+    "msg" : my_message
+}
+
+$.ajax({
+    type: "POST",
+    url: "https://chat.v1.prod.online-it-school.com/add",
+    data: data,
+    success: function(a, b){
+        console.log(a)
+        get_all_msg()
+    },
+    error: function(a, b) {
+        console.log("error")
+    }
+});
+// Обнуляем окно ввода сообщения.
+document.getElementById("my_message").value = null;
+}
+
+</script>
+</html>
