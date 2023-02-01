@@ -1,0 +1,77 @@
+Полезные ссылки
+https://www.freecodecamp.org/news/a-beginners-guide-to-docker-how-to-create-your-first-docker-application-cc03de9b639f
+https://docs.docker.com/desktop/install/windows-install/
+https://www.youtube.com/watch?v=Wiu5bEOxkCQ
+https://www.youtube.com/watch?v=_uZQtRyF6Eg&t=2056s
+Docker - Полный курс Docker Для Начинающих 3 ЧАСА
+
+Проблемы.
+Не запускался докер. 
+	Вылечил выбором в меню. Switch to windows container
+
+Не запускалось в командной строке docker version.
+	Выдечил установкой компонентов Windows	
+	Hyper-V(и все подкомпоненты)
+	Контейнеры
+	WSL из Microsoft Store
+
+docker version		показать версию docker
+docker --version	показать версию docker
+
+docker ps	список запущенных контейнеров
+
+docker ps -a	список запущенных и остановленных контейнеров
+
+docker images	список образов, которые есть локально на компьютере
+docker image ls	тоже самое
+docker image rm [image name]	удалить образ
+docker image rm $(docker images -a -q)	удалить все образы образ
+
+docker run hello-world		скачать и запустить образ
+docker run hello-world:latest	скачать образ с определенным тэгом и запустить образ
+
+docker run -it --rm busybox		запустить контейнер и включить интерактивный терминал, если без опций -it то контейнер сразу будет остановлен
+	--rm	удалять автоматически контейнер после остановки
+
+	Команды в busybox
+	hostname	показать имя контейнера
+	hostname -i	показать IP контейнера
+	ping 8.8.8.8
+	traceroute 8.8.8.8
+	exit		выход
+
+docker run -d -p 8080:80 nginx	# мапинг портов 80 - внутренний порт контейнера, 8080 - внешний
+
+docker run -d -p 8080:80 -v c:/doc/docker/html/:/usr/share/nginx/html/ nginx
+		В пути к папке можно использовать переменную ${pwd}
+
+docker run -d		# запустить процесс отсоединенный от вывода deattach
+	--name ng1	# задать имя контейнера
+	nginx	
+	/usr/share/nginx/html/		папка с html файлами
+
+docker logs [container name]	Display logs of a container.
+docker inspect e55677006f89				посмотреть детали контейнера
+docker inspect e55677006f89| grep IPAddress		посмотреть детали контейнера, с фильтрацией
+docker stop e55677006f89		остановить контейнер
+docker stop $(docker ps -a -q)	остановить все контейнеры
+docker exec -it f4fbb4d5a363 bash	запускает дополнительный процесс в сущестующем контейнере
+
+docker container prune		удалить все остановленные контейнеры
+
+docker rm 828cca7e308a		удалить контейнер по ID
+docker rm vigilant_boyd		удалить контейнер по имени
+docker rm $(docker ps -a -q)	Delete all containers (only if stopped).
+
+Dockerfile
+FROM python:alpine	# исходный образ
+WORKDIT /app		# рабочая директория внутри образа для нашего приложения
+COPY . .	# копируем все папки из текущей папки в папку WORKDIT /app внутри контейнера
+CMD [ "python", "main.py" ]	# какая команда будет выполнена на основании созданного образа
+				# запускается процесс python и ему передается аргумент main.py
+
+docker build .
+	-f nameFile	# Если -f nameFile нет, то используется имя Dockerfile
+	-t nameIm:tag	# Имя и тэг для создаваемого образа (по умолчанию тэг latest)	
+	
+docker build . -t nodeim
