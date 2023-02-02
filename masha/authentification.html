@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<head>
+    <script src="js/jquery360.js"></script>
+    <link rel="stylesheet" href='css/client_style.css'>
+</head>
+<body>
+    <span id="output"></span>
+    <table width="10%">
+        <tr width="100%"> 
+            <td width="10%">
+                <b id="E-mail">E-mail:</b>
+                <! -- Это поле ввода электронной почты -->
+                <input id="mail" value="posicel@gmail.com"></input>
+                <br>
+                <br>
+                <b id="Phone">Phone:</b>
+                <! -- Это поле ввода телефона -->
+                <input id="password" value="1"></input>
+                <br>
+                <br>
+                <! -- Кнопка "Login". Доступна вначале, 
+                вызывает send_name_get_msg(). -->
+                <button onclick="login()">Login</button> 
+            </td>                
+        </tr> 
+    </table>       
+</body>
+<script>
+    var document.login;
+
+    function login()
+    {
+        // Считывание почты и телефона
+        var login_email = document.getElementById("mail").value;
+        var login_password = document.getElementById("password").value;
+
+        var ajax_data = 
+        {
+            "email" : login_email,
+            "password" : login_password
+        }
+
+        // Отправка почты и телефона на api, получение токена, 
+        // при неуспехе вывод "Authentification FAILED".
+        var temp_url = "https://chat.v1.prod.online-it-school.com/get_session_token";
+    
+        $.ajax
+        ({
+            type: "POST",
+            url: temp_url,
+            data: ajax_data,            
+            success: function(on_login_response)
+            {
+                if (on_login_response.length < 30)
+                {
+                    document.getElementById("output").innerHTML = "<b>Authentification FAILED. <br>Please try again!</b>";
+                }
+                else
+                {
+                    document.getElementById("output").innerHTML = "Authentification succeed";
+
+                }                   
+            },
+            error: function(on_login_response) 
+            {
+                document.getElementById("output").innerHTML = "error";
+            }
+        });
+    }; 
+</script>
