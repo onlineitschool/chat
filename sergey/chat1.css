@@ -29,11 +29,29 @@ h4 { /* Стиль для сообщений других пользовател
         margin-top: 3px; 
 		margin-bottom: 3px;
 }
+.sendMesDiv{
+    background: #7aecff;
+    width: fit-content;
+    padding: 10px;
+    display: none;
+}
 
-div { /* Стиль для чата */
-border: 2px solid rgb(27, 196, 95);
+.allMess { /* Стиль для чата */
+border: 2px solid rgb(25, 5, 5);
 height: 500px;
 overflow: auto;
 width: 500px;
 align: center;
+}
+
+.clAuthor { /* Стиль для авторизации */
+    border: 2px solid rgb(42, 170, 27);
+    align: center;
+    padding: 20px;
+    width: 500px;
+    display: none;
+}
+
+.isShow{
+    display: block;
 }

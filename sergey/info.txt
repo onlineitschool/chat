@@ -1,0 +1,32 @@
+Описание API:
+https://chat.v1.prod.online-it-school.com/static/api.html
+
+returns an html of all messages
+https://chat.v1.prod.online-it-school.com/get_all_messges_html
+
+get session token
+https://chat.v1.prod.online-it-school.com/get_session_token
+email=sergnech.sw@gmail.com
+password=1
+
+{"token": 
+"Z0FBQUFBQmoyck1mQVJ2TGg4RGFKb1I1bWVLQThWLVIxZlpCc2NpcXFVZnRweEdEc1VsZlFfYmRGNGFhTUZsU3pmc0Q4ejh3SXRPYkxTVXNMSnNNTktvbDJxYk9aWDF1cFVIRVJDbEFjUFZpN1FLSFBXUXlUMFhQcS1UNHdmazhzYUVXeEMxNlRpcHgzbXFJMHdPcEllT0JmY3lHZUZwS0xLWHRJZ3d0YkdIYnJHSUZGaG16WkVjaWNFdmtNaTF1RXlld19fZy00UEhic1pEWlFlZ0VRQ282b0FGTnpkdUVSOVYtaXdzUHBuVEhrM0d6QzJ4Nk1pamJpVnAtSVhFSjdKOVpDYjN5NUFuZUZnSW1CSm0wWkw0Q1Y2NHJXMWRsM0dpWk81S2lPZ3EyaUNZdENLV0VMby1KNUhydWNEZm45UHlkNmFEMml4T3g4VVpDc3FMdG5qMjM3c2RETkM5QnlQb3I1Rl94aFo5RFVFQmE1OG1ramR0S2t1YmxRUFJheUZScWhLZUhKQ2hHUXdTTTZCRmpNMFljdFZ5N2x1QXA4TGJoWEZObGFxZXM0OGlLeWdtRHI0VjdmNFM1YmtIUzZJbXNObklBcHgzY0xrNk5CQ1dZNUtMQV9YYzNaZ0swV2c9PQ==", "obj_user": {"f_name": "\u0421\u0435\u0440\u0433\u0435\u0439", "l_name": null}}
+
+
+https://chat.v1.prod.online-it-school.com/add2
+token
+msg
+
+Чат АлексеяА
+https://chat.v1.prod.online-it-school.com/v2
+
+Чат Алексея
+https://web1.alexey.online-it-school.com/
+
+
+Моя веб страница
+https://web1.sergey.online-it-school.com/
+
+Управление страницей
+https://ide.sergey.online-it-school.com/
+

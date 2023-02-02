@@ -2,17 +2,79 @@
 <html lang="en">
 <head>
     <script src="jquery360.js"></script>
-    <link rel="stylesheet" href='chat.css'>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>sergey chat</title>
+
+    <style type="text/css">
+h3 {    /* Стиль для сообщений пользователей */
+    font-weight: normal;
+    font-size: 20;
+    padding: 10px; /* Поля вокруг текста */
+    border-radius: 15px; /* Уголки */
+    min-width: 10%;
+    max-width: 80%;
+    width: fit-content;
+    background: #8c8ed9;
+    text-align: left;    
+    margin-left: 10px; 
+    margin-right: auto; 
+    margin-top: 3px; 
+    margin-bottom: 3px;
+}
+
+h4 { /* Стиль для сообщений других пользователей */
+        font-weight: normal;
+        font-size: 20;
+        padding: 10px; /* Поля вокруг текста */
+        border-radius: 15px; /* Уголки */
+        min-width: 10%;
+        max-width: 80%;
+        width: fit-content;
+        background: #7aec41;
+		text-align: right;    
+        margin-left: 10px; 
+		margin-right: 3px; 
+        margin-top: 3px; 
+		margin-bottom: 3px;
+}
+.sendMesDiv{
+    background: #7aecff;
+    width: fit-content;
+    padding: 10px;
+    display: none;
+}
+
+.allMess { /* Стиль для чата */
+border: 2px solid rgb(25, 5, 5);
+height: 500px;
+overflow: auto;
+width: 500px;
+align: center;
+}
+
+.clAuthor { /* Стиль для авторизации */
+    border: 2px solid rgb(42, 170, 27);
+    align: center;
+    padding: 20px;
+    width: 500px;
+    display: none;
+}
+
+.isShow{
+    display: block;
+}
+
+    </style>    
 </head>
 <body>
 Chat
+<button id="refresh" onclick="get_latest_msg_id()">refresh</button><br>
 <p>Число сообщений:  <b id="report"></b></p>
-<div id="block"></div> 
+<div id="block" class="allMess"></div> 
 
+<!-- 
 <p id="my_mame_is">My name:</p>
 <input id="input_name" value="Name"></input>
 <button id="button_name" onclick="send_my_name()">Set My Name</button>
@@ -23,22 +85,41 @@ Chat
 <input id="my_message"></input>
 <br>
 <button id="button_message" onclick="send_my_message()">Send Message</button> 
+ -->
+
+<div class="welcome"></div>
+
+<div class="clAuthor">
+email <input id="email"></input><br>
+phone <input id="phone"></input><br>
+    <button id="btnAuthor" onclick="doAuthor()">login</button> 
+</div>
+
+<div class="sendMesDiv">
+<textarea name="sendMesTxt" id="sendMesTxt" cols="80" rows="10"></textarea><br>
+<button id="sendMesBtn" onclick="sendMesF()">Send message</button> 
+</div>
 
 </body>
 <script>
+
 $(document.getElementById("log_out")).hide();
 // Прячем отправку сообщений.
 $(document.getElementById("send_message")).hide();
 $(document.getElementById("my_message")).hide();
 $(document.getElementById("button_message")).hide();
-
 'use strict'
 var last_message = 0
 var name
+var clAuthor=document.querySelector('.clAuthor');
+var sendMesDiv=document.querySelector('.sendMesDiv');
+var welcome=document.querySelector('.welcome');
+var sendMesTxt=document.getElementById("sendMesTxt")
 
-window.onload = function() {
-console.log("mes window.onload")
-// Выясняем номер последнего сообщения
+clAuthor.classList.add('isShow')
+
+
+function get_latest_msg_id(){// Выясняем номер последнего сообщения
 $.ajax
         ({
         url: "https://chat.v1.prod.online-it-school.com/get_latest_msg_id",
@@ -49,16 +130,101 @@ $.ajax
             get_msg()
             },
         });
+    }
+window.onload = function() {
+console.log("mes window.onload")
+get_latest_msg_id()
+}
+
+function sendMesF(){
+var msg = sendMesTxt.value
+console.log('sendMesF '+msg)
+sendMesTxt.value = ""
+var token = document.obj_user.token
+var data = {
+            "token" : token,
+            "msg" : msg
+        }
+
+
+$.ajax({
+    type: "POST",
+    url: "https://chat.v1.prod.online-it-school.com/add2",
+    data: data,
+    success: function(a, b){
+        get_latest_msg_id()
+    }
+});
+
+}
+
+function doAuthor(){
+var email = document.getElementById("email").value
+var phone = document.getElementById("phone").value
+var temp_url = 'https://chat.v1.prod.online-it-school.com/get_session_token'
+
+var ajax_data = {
+    "email" : email,
+    "password" : phone
+}
+console.log(ajax_data)
+
+$.ajax({
+            type: "POST",
+            url: temp_url,
+            data: ajax_data,
+            success: on_login_response
+        });
+
+}
+
+function on_login_response(data) {    
+    document.obj_user = JSON.parse(data)
+    check_user()
+}
+
+function check_user(){
+    console.log('check_user')
+    console.log(document.obj_user)
+    try{
+        if (document.obj_user.obj_user['f_name']) {
+            console.log('good')
+            clAuthor.classList.remove('isShow')
+            welcome.innerHTML=("Wellcome: " + document.obj_user.obj_user['f_name'])
+            sendMesDiv.classList.add('isShow')
+            document.try_login = false
+        }
+        else {
+            console.log('Error')
+            welcome.innerHTML=("Incorrect login")
+            
+//            $(".div_new_msg").hide()
+//            $(".div_login").show()
+        }
+    }
+    catch {
+        console.log('catch')
+        welcome.innerHTML=("Incorrect login")
+
+/*        if (document.try_login){
+            $(".span_error").html("Incorrect login data, please check").show()
+        }
+
+        $(".span_error").html("Incorrect login data, please check")
+        $(".div_new_msg").hide()
+        $(".div_login").show()*/
+    }
+
+
 }
 
 // Получаем от API все старые сообщения.
 function get_msg(){
 var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + last_message;
-console.log(url)
+console.log('get_msg '+ url)
 fetch(url)
 .then((response) => response.json())    
 .then((data) => build_chat(data));
-
 };
 
 // Пишем все старые сообщения в окно чата
@@ -79,6 +245,8 @@ for (var i = 0; i < data.length; i++){
     document.getElementById("block").scrollTop = block.scrollHeight;    
 }
 };
+
+get_latest_msg_id()
 
 function send_my_name(){
 // Имя сохраняется и выводится на экран.
