@@ -1,5 +1,5 @@
 function updateMessages()
-        // Эта функция отслеживает появление новых сообщений
+    // Отслеживаем появление новых сообщений.
     { 
         let timerId = setInterval
         (
@@ -13,13 +13,15 @@ function updateMessages()
         ); 
     };
 
-    // Выводим новое количество сообщений и считываем эти сообщения с сайта.
     function get_msg(data)
     {
         last_message = data;
         if (last_message != msg_dowloaded)
             {
+                // Выводим новое количество сообщений. 
                 document.getElementById("report").innerHTML = last_message;
+
+                // Считываем новые сообщения с сайта.
                 var d = last_message - msg_dowloaded;
                 msg_dowloaded = last_message; 
                 var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + d;

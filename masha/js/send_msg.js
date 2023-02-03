@@ -1,7 +1,7 @@
     // Пользователь отправляет свое сообщение.
     function send_msg()
         {
-            // Отправляем сообщение на сервер.
+            // Считываем сообщение.
             var my_message = document.getElementById("my_message").value;
             var token = user.token
         
@@ -10,7 +10,7 @@
                 "token" : token,
                 "msg" : my_message
             }
-        
+            // Отправляем сообщение на сервер.        
                 $.ajax({
                     type: "POST",
                     url: "https://chat.v1.prod.online-it-school.com/add2",

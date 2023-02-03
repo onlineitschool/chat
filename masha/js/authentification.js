@@ -14,27 +14,27 @@ function login()
             "password" : login_password
         }
 
-        // Отправляем почту и телефон на api,  
+        // Отправляем почту и телефон на api  
         var temp_url = "https://chat.v1.prod.online-it-school.com/get_session_token";
     
         $.ajax
         ({
             type: "POST",
             url: temp_url,
-            // отправляем логин-пароль
+            // Отправляем логин-пароль.
             data: ajax_data,   
 
-            // получаем имя и токен,         
+            // Получаем имя и токен.         
             success: function(on_login_response)
             {
                 user = JSON.parse(on_login_response);
-                if (on_login_response.length < 30)  // при неуспехе
+                if (on_login_response.length < 30)  // При неуспехе
                 {
                     // выводим "Authentification FAILED".
                     $("#output").show();
                     document.getElementById("output").innerHTML = "<b>Authentification FAILED. Please try again!</b>";
                 }
-                else // при успешной аутентификации
+                else // При успешной аутентификации
                 {
                     // сохраняем имя пользователя в переменную name
                     name = user.obj_user['f_name'];
