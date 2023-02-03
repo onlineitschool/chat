@@ -26,6 +26,7 @@
     </table>       
 </body>
 <script>
+    var user;
     function login()
     {
         // Считывание почты и телефона
@@ -49,13 +50,14 @@
             data: ajax_data,            
             success: function(on_login_response)
             {
+                user = JSON.parse(on_login_response);
                 if (on_login_response.length < 30)
                 {
-                    document.getElementById("output").innerHTML = "<b>Authentification FAILED. <br>Please try again!</b>";
+                    document.getElementById("output").innerHTML = "<b>Authentification FAILED.<br>Please try again!</b>";
                 }
                 else
                 {
-                    document.getElementById("output").innerHTML = on_login_response;
+                    document.getElementById("output").innerHTML = "Hi " + user.obj_user['f_name'];
 
                 }                   
             },
@@ -65,4 +67,5 @@
             }
         });
     }; 
+    
 </script>
