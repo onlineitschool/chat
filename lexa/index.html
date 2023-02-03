@@ -16,13 +16,17 @@
     <div class="container">
         <div class="row">
             <div class="col-md-4">
+                <div class="refresh">
+                    <button id="btn_refresh" onclick="load_msg()">Refresh chat</button>
+                </div>
                 <div class="div-login">
                     <label>Please login:</label>
-                    <br><br>
+                    <br>
                     <label>Email:</label>
                     <br>
                     <input placeholder="Enter email" type="text" id="login_username">
                     <br>
+                    
                     <br>
                     <label>Password(phone):</label>
                     <br>
@@ -32,9 +36,9 @@
                     <button type="button" id="btn_login">Login</button>
                 </div>
     
-                <div class="div-new-msg">
+                <div class="div-new-msg" id="div-new-msg">
                     <span class="span_wellcome"></span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        <span class="span_logout" style="color: blue; cursor: pointer; text-decoration: underline;">Logout</span>
+                        <button id="btn_logout" onclick="logout()">Logout</button>
                         <br><br>
                         <div class="div-msg-form">
                             Message:<br>
@@ -50,7 +54,6 @@
                     <b>Alexey</b>: <span>msg</span>
                     <br>
                 </div>
-                <button type="button" onclick="load_msg()" id="btn_load">Load Messages</button>
                 
                 <button type="button" onclick="prev_page()">Prev</button>
                 <label id="page">page </label>
@@ -62,6 +65,8 @@
     </div>
 
 <script>
+    document.getElementById("div-new-msg").style.display = "none";
+
     var pg_count = 0;                                                                     //current page/pages element
         document.getElementById("page").innerHTML = pg_count;
     var base_url = "https://chat.v1.prod.online-it-school.com";
@@ -150,17 +155,26 @@
             success: function(a, b){
                 fetchData(pg_count);                                        //common chat update
             }
-          });
+        });
     }
 
+    function load_msg(){
+        n_pages();
+        fetchData(pg_count);
+    }
+
+    function logout(){
+        $(".div-login").show()
+        $(".div-new-msg").hide()
+        delete document.user;
+    }
 </script>
 <script src="jquery360.js"></script>
 <script src="login.js"></script>
 <script>
     window.onload = function() {
-                n_pages();
-                fetchData(pg_count);
-                login();    
+        load_msg();
+        login();    
     }
 
 </script>
