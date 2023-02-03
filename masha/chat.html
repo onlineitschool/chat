@@ -2,14 +2,19 @@
     <meta charset="UTF-8">
 <head>
     <script src="js/jquery360.js"></script>
-    <link rel="stylesheet" href='css/client_style.css'>
+
+    <script src="js/authentification.js"></script>
+    <script src="js/update_msg.js"></script> 
+    <script src="js/send_msg.js"></script>  
+
+    <link rel="stylesheet" href='css/my_style.css'>
 </head>
 <body>
     <! -- Это для тестирования -->
     <table width="99.5%">
         <tr width="100%"> 
-            <td width="80%"><p><b>Все сообщения чата:</b></p></td>
-            <td width="20%">Количество сообщений:  <b id="report"></b></td>
+            <td width="80%" id = "all_msg"><p><b>All messages of the chat:</b></p></td>
+            <td width="20%" id = "number_msg">Number of messages:  <b id="report"></b></td>
         </tr>
     </table>    
     <! -- Это окно чата -->
@@ -20,19 +25,24 @@
     <table width="99.5%">
         <tr width="100%"> 
             <td width="10%">
-                <b id="E-mail">E-mail:</b>
+                <b id="e-mail">E-mail:</b>
                 <! -- Это поле ввода электронной почты -->
                 <input id="mail" value="posicel@gmail.com"></input>
                 <br>
+                <! -- В этом поле выводится имя пользователя -->
+                <span id="name"></span>
                 <br>
-                <b id="Phone">Phone:</b>
+                <b id="phone">Phone:</b>
                 <! -- Это поле ввода телефона -->
                 <input id="password" value="1"></input>
                 <br>
                 <br>
-                <button onclick="login()">Login</button> 
-            </td>        
+                <button onclick="login()" id="login">Login</button> 
+            </td>          
             <td width="90%">
+                <! -- В этом поле выводится сообщение о неуспехе аутентификации -->
+                <span id="output"></span>
+
                 <p id="send_message">Your message:</p>
 
                 <! -- Это поле ввода сообщения -->
@@ -48,131 +58,48 @@
 </body>
 <script>
 
-    var name = null; // Имя пользователя, по нашим данным.
+    // Программа состоит из трех блоков, вынесенных в отдельные .js-файлы.
+
+    // 1. Аутентификация пользователя (логин-пароль) - authefication.js
+
+    // 2. Загрузка сообщений с сервера раз в 0,5 с - update_msg.js
+    // В этот раздел вроде бы не нужно вносить никаких изменений.
+
+    // 3. Отправка нового сообщения - send_msg.js
+    // Теперь нужно отправлять токен вместе с сообщением, на новый api
+
+    var user; // Объект, состоящий из токена и объекта, состоящего из имени и фамилии пользователя.
+    var token; // Токен - это строка, передаваемая вместе с каждым сообщением пользователя.
+    var name; // Имя пользователя.
+    var surname; // Фамилия пользователя.   
 
     var last_message = 0; // Количество сообщений на сервере, по нашим данным.
     var msg_dowloaded = 0; // Количество загруженных с сервера сообщений.
 
-    // Прячем отправку сообщений.
-    $("#send_message").hide();
-    $("#my_message").hide();
-    $("#b_send_get_msg").hide();
+    window.onload = function() 
+    {
+            init_chat()
+    };
 
-    // Убираем надпись Default name
+    function init_chat()
+    {
+        // Прячем окно чата.
+        $("#block").hide();
+        $("#all_msg").hide();
+        $("#number_msg").hide();
+
+        // Прячем отправку сообщений.
+        $("#send_message").hide();
+        $("#my_message").hide();
+        $("#b_send_get_msg").hide();
+    };
+
+    // Убираем надпись Default name при попытке ввода другого имени
     function empty()
     {
         // Обнуляем окно ввода имени.
         document.getElementById("input_name").value = null;
     }
 
-    // Пользователь отправляет свое имя.
-    function send_name_get_msg()
-    {    
-        // Имя сохраняется в переменную name и выводится на экран.
-        name = document.getElementById("input_name").value;
-        document.getElementById("my_mame_is").innerHTML = name + ":";
-
-        // Прячем окно ввода имени и кнопку.
-        $("#input_name").hide();
-        $("#b_send_name_get_msg").hide();
-
-        // Открываем отправку сообщений.          
-        $("#end_message").show();
-        $("#my_message").show();       
-        $("#b_send_get_msg").show();
-
-        // Раз в 0,5 секунды подгружаем новые сообщения.
-        updateMessages();
-    };
-
-    function updateMessages()
-        // Эта функция отслеживает появление новых сообщений
-    { 
-        let timerId = setInterval
-        (
-            function() 
-            { 
-                fetch("https://chat.v1.prod.online-it-school.com/get_latest_msg_id")
-                    .then((response) => response.json())
-                    .then((data) => get_msg(data));
-            }
-            , 500
-        ); 
-    };
-
-    // Выводим новое количество сообщений и считываем эти сообщения с сайта.
-    function get_msg(data)
-    {
-        last_message = data;
-        if (last_message != msg_dowloaded)
-            {
-                document.getElementById("report").innerHTML = last_message;
-                var d = last_message - msg_dowloaded;
-                msg_dowloaded = last_message; 
-                var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + d;
-                fetch(url)
-                .then((response) => response.json())    
-                .then((data) => build_chat(data));
-            }           
-    };
-
-    // Пишем все новые сообщения в окно чата
-    function build_chat(data) 
-        {
-            var myMessage;
-            var hisMessage;
-            for (var i = 0; i < data.length; i++) 
-            {
-                var k = data.length - i - 1;
-                var msg = data[k];
-
-                console.log(name);
-
-                if (msg["username"] == name) 
-                {
-                    // Выводим сообщения пользователя на зеленом фоне.                    
-                    myMessage = document.createElement("h5");
-                    myMessage.innerHTML = msg["username"] + ": " + msg["message"];
-
-                    document.getElementById("block").appendChild(myMessage);
-                    document.getElementById("block").scrollTop = block.scrollHeight; 
-                }                  
-                else 
-                {
-                    // Выводим сообщения других пользователей на сером фоне. 
-                    hisMessage = document.createElement("h6");
-                    hisMessage.innerHTML = msg["username"] + ": " + msg["message"];
-
-                    document.getElementById("block").appendChild(hisMessage);
-                    document.getElementById("block").scrollTop = block.scrollHeight;   
-                }
-            }
-        };
-
-    // Пользователь отправляет свое сообщение.
-    function send_msg()
-        {
-            // Отправляем сообщение на сервер.
-            console.log("Send Message")
-            var my_message = document.getElementById("my_message").value;
-                var data = {
-                    "name" : name,
-                    "msg" : my_message
-                }
-        
-                $.ajax({
-                    type: "POST",
-                    url: "https://chat.v1.prod.online-it-school.com/add",
-                    data: data,
-                    success: function(a, b){
-                        console.log(a)
-                    },
-                    error: function(a, b) {
-                        console.log("error")
-                    }
-                });
-            // Обнуляем окно ввода сообщения.
-            document.getElementById("my_message").value = null;
-        }
 </script>
 </html>
