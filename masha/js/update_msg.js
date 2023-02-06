@@ -16,14 +16,14 @@ function updateMessages()
     function get_msg(data)
     {
         last_message = data;
-        if (last_message != msg_dowloaded)
+        if (last_message != last_downloaded)
             {
                 // Выводим новое количество сообщений. 
                 document.getElementById("report").innerHTML = last_message;
 
                 // Считываем новые сообщения с сайта.
-                var d = last_message - msg_dowloaded;
-                msg_dowloaded = last_message; 
+                var d = last_message - last_downloaded;
+                last_downloaded = last_message; 
                 var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + d;
                 fetch(url)
                 .then((response) => response.json())    

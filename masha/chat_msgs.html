@@ -1,0 +1,88 @@
+<html>
+    <!DOCTYPE html>
+    <meta charset="UTF-8">
+    <head>
+        <link rel="stylesheet" href='css/my_style.css'>
+    </head>
+  
+    <body>
+        <table width="99.5%">
+            <tr width="100%"> 
+                <td width="80%" id = "all_msg"><p><b>All messages of the chat:</b></p></td>
+                <td width="20%" id = "number_msg">Number of messages:  <b id="report"></b></td>
+            </tr>
+        </table>
+        <! -- Это окно чата -->
+        <div id="block">
+            <p id="bottom"></p>   
+        </div> 
+    </body>
+    <script>
+        var block = document.getElementById("block");
+        var name = "Мария";
+        var last_message = 100;
+
+        window.onload = function() 
+        {
+            init_chat();
+        };
+
+        function init_chat()
+        {
+            for (var i = 0; i < 300; i++) 
+            {
+                var element = document.createElement("Text");
+                element.id = "text" + i;
+                element.innerHTML = "Сообщение " + i + " удалено или ещё не загружено" + "<br>";
+                block.appendChild(element);
+            };
+            get_msg(); 
+        };
+
+        function get_msg()
+        {
+            // Выводим новое количество сообщений. 
+            document.getElementById("report").innerHTML = last_message;
+
+            // Считываем сообщения с сайта.
+                var url = "https://chat.v1.prod.online-it-school.com/get_msgs_page/0/" + last_message;
+                fetch(url)
+                    .then((response) => response.json())    
+                    .then((data) => build_chat(data));          
+        };
+          
+        // Пишем сообщения в окно чата, на свои номера
+        function build_chat(data) 
+        {
+            var nmbrMessage;
+            var myMessage;
+            var hisMessage;
+            for (var i = 0; i < data.length; i++) 
+            {
+                var k = data.length - i - 1;
+                var msg = data[k];
+
+                console.log(name);
+                console.log(msg["id"]);
+
+                if (msg["username"] == name) 
+                {
+                    // Выводим сообщения пользователя на зеленом фоне.                    
+                    nmbrMessage = msg["id"];
+                    myMessage = document.getElementById("text" + nmbrMessage);
+                    myMessage.innerHTML = "<h5>" + msg["username"] + ": " + msg["message"] + "</h5>";
+                    block.scrollTop = block.scrollHeight; 
+                }                  
+                else 
+                {
+                    // Выводим сообщения других пользователей на сером фоне.                   
+                    nmbrMessage = msg["id"];
+                    hisMessage = document.getElementById("text" + nmbrMessage);
+                    hisMessage.innerHTML = "<h6>" + msg["username"] + ": " + msg["message"] + "</h6>";
+                    block.scrollTop = block.scrollHeight;   
+                }
+            }
+        };
+          
+     </script>
+</html>
