@@ -168,13 +168,21 @@
         $(".div-new-msg").hide()
         delete document.user;
     }
+
+    function refreshChat() {
+        load_msg();
+    console.log("refresh " + 30000)
+    setTimeout(refreshChat, 30000);
+    }
+
 </script>
 <script src="jquery360.js"></script>
 <script src="login.js"></script>
 <script>
     window.onload = function() {
         load_msg();
-        login();    
+        login(); 
+        setTimeout(refreshChat, 5000);  
     }
 
 </script>
