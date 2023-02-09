@@ -1,0 +1,5637 @@
+<HourlyLocationsForecast>
+<Identification>
+<Organization>Israel Meteorological Service</Organization>
+<Title>Hourly forecasts for selected locations</Title>
+<IssueDateTime>Wed Feb 8 16:27:01 IST 2023</IssueDateTime>
+</Identification>
+<Location>
+<LocationMetaData>
+<LocationName>AFULA NIR HAEMEQ</LocationName>
+<LocationLatitude>32.596</LocationLatitude>
+<LocationLongitude>35.2769</LocationLongitude>
+<LocationHeight>59</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>267</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>270</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>251</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>246</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>6.3</Temperature>
+<RelativeHumidity>95</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>243</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>97</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>233</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>95</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>229</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>93</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>234</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>92</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>235</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>92</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>234</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>228</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>240</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>349</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>218</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>191</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>5.1</Temperature>
+<RelativeHumidity>90</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>121</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>7.7</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>84</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>85</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.2</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>91</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.6</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>95</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>110</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>13.1</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>131</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>12.9</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>135</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>107</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.7</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>21</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.8</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>19</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>0.3</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>8.9</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>0.4</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>19</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.4</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>47</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>49</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>62</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>56</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>61</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>69</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>74</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>73</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>14.1</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>65</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.7</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>53</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.9</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>48</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>25</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>359</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>340</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>49</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>59</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.7</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>67</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>81</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>91</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>102</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>4.6</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>102</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>99</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>4.4</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>101</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>103</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>106</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>108</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>97</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>87</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.6</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>79</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.8</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>61</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.5</Temperature>
+<RelativeHumidity>37</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>34</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>15</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>15.0</Temperature>
+<RelativeHumidity>38</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>332</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.6</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>322</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>318</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>319</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>318</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>310</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>311</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>320</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>ASHQELON PORT</LocationName>
+<LocationLatitude>31.6394</LocationLatitude>
+<LocationLongitude>34.5215</LocationLongitude>
+<LocationHeight>6</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>11.5</WindSpeed>
+<WindDirection>292</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.9</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>10.9</WindSpeed>
+<WindDirection>291</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.4</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>11.1</WindSpeed>
+<WindDirection>288</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>9.7</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>12.2</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>8.8</WindSpeed>
+<WindDirection>284</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>12.2</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>7.9</WindSpeed>
+<WindDirection>285</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>6.9</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>6.9</WindSpeed>
+<WindDirection>289</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>6.7</WindSpeed>
+<WindDirection>290</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>12.2</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>6.3</WindSpeed>
+<WindDirection>295</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>5.7</WindSpeed>
+<WindDirection>297</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>11.8</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>296</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.3</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>123</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>9.0</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>133</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>130</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>139</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>151</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>166</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>200</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>12.8</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>229</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>249</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>268</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>13.1</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>311</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>343</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>0</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>18</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.9</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>11.8</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>65</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>11.1</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>51</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>10.3</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>33</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>10.3</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>28</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>26</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>10.9</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>20</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>12.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.7</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>6</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>0</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>350</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.5</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>347</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.6</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>5.2</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>5.2</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>3</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>5.9</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>6.3</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>7.2</WindSpeed>
+<WindDirection>18</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>13.5</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>7.0</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>12.8</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>6.4</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>6.6</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>6.5</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>10.9</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>5.9</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.8</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>10.3</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.7</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>10.0</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>10.0</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>10.0</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>10.0</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>31</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.9</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>25</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>14.7</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>2</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.7</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>6.2</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.6</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>6.4</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>6.4</WindSpeed>
+<WindDirection>355</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>14.2</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>6.1</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>353</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>13.8</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>13.9</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>4</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>13.7</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>13.1</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>31</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>AVDAT</LocationName>
+<LocationLatitude>30.7877</LocationLatitude>
+<LocationLongitude>34.7712</LocationLongitude>
+<LocationHeight>554</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>6.1</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>5.8</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>284</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>279</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>268</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>265</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>4.6</Temperature>
+<RelativeHumidity>82</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>271</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>85</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>270</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>260</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>82</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>255</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>244</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>242</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>238</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>3.6</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>238</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>4.1</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>234</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>235</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>7.4</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>243</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>8.6</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>269</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>283</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>278</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>11.0</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>11.0</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>297</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>9.9</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>350</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>24</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>86</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>86</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>19</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>21</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>345</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>5.1</Temperature>
+<RelativeHumidity>82</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>335</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>328</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>321</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>316</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>316</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>320</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>7.9</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>337</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>332</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>336</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>338</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>340</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>334</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>329</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>330</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>9.0</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>330</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>334</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>341</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>342</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>342</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>348</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>5.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>66</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>28</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>53</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>57</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>7.9</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>19</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>353</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>348</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>11.2</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>337</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>11.8</Temperature>
+<RelativeHumidity>39</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>334</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>11.8</Temperature>
+<RelativeHumidity>39</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>331</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>325</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>325</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>8.4</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>328</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>332</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>329</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>328</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>BEER SHEVA</LocationName>
+<LocationLatitude>31.2515</LocationLatitude>
+<LocationLongitude>34.7995</LocationLongitude>
+<LocationHeight>278</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>9.0</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>259</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>87</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>248</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>87</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>233</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>239</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>238</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>86</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>234</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>250</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>248</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>237</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>224</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>223</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>226</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>207</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>6.3</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>205</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>199</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>202</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>190</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>215</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>9.1</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>227</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>228</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>241</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>255</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>11.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>260</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>263</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>11.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>303</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>341</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.0</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>17</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>30</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>8.1</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>56</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>80</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>86</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>82</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>69</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>77</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>55</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>56</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>92</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>119</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>0.2</WindSpeed>
+<WindDirection>248</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.5</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>294</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>305</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.6</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>309</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.3</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>310</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.6</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>316</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>324</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.4</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>329</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>335</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>353</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>7</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>24</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>67</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>77</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>81</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>88</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>94</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>93</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>86</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>5.5</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>82</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>89</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>107</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>0.2</WindSpeed>
+<WindDirection>263</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>307</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>328</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.8</Temperature>
+<RelativeHumidity>38</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>329</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.2</Temperature>
+<RelativeHumidity>37</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>324</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.1</Temperature>
+<RelativeHumidity>38</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>320</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>13.7</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>12.8</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>321</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>327</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>340</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>355</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>4</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>8.9</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>3</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>EDEN FARM</LocationName>
+<LocationLatitude>32.4679</LocationLatitude>
+<LocationLongitude>35.4889</LocationLongitude>
+<LocationHeight>-121</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>324</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>306</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>256</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>9.1</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>274</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>280</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>82</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>272</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>271</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>7.4</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>82</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>279</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>285</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>345</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>357</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>85</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>349</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>11.3</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>17</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>0.1</WindSpeed>
+<WindDirection>96</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>13.9</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>200</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>14.5</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>219</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>14.7</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>216</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>222</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>215</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>15.0</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>191</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.4</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>185</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>13.6</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>146</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>13.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>60</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.9</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>25</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>22</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>11.3</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>10.9</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>9.8</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>10.0</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>24</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>8.1</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>33</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>11.2</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.4</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>34</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>15.1</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>30</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>16.0</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>25</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>16.6</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>13</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>16.7</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>16.6</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>18</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>16.1</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>19</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.2</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>54</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>55</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>10.9</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>4.7</WindSpeed>
+<WindDirection>50</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.1</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.3</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.7</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.7</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>6.3</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>12.2</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.2</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>28</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>15.5</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>23</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>16.3</Temperature>
+<RelativeHumidity>37</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>16.7</Temperature>
+<RelativeHumidity>34</RelativeHumidity>
+<WindSpeed>3.2</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>16.7</Temperature>
+<RelativeHumidity>32</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>352</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>16.4</Temperature>
+<RelativeHumidity>36</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>346</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.6</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>318</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>6.8</WindSpeed>
+<WindDirection>312</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>5.9</WindSpeed>
+<WindDirection>328</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.3</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>345</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>351</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>ESHHAR</LocationName>
+<LocationLatitude>32.8845</LocationLatitude>
+<LocationLongitude>35.3012</LocationLongitude>
+<LocationHeight>347</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>8.1</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>295</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>292</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>5.7</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>296</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>310</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>313</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>3.5</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>3.0</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.3</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>2.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>25</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>2.7</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>2.8</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>2.3</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>2.9</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>2.8</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>62</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>68</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>7.8</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>80</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>93</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>94</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>90</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>0.2</WindSpeed>
+<WindDirection>143</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>280</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>294</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>2</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>8</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>56</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>6.1</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>71</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>66</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>66</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>72</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>69</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>70</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>74</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>79</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>78</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>6.1</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>78</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>74</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>81</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>83</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>90</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>93</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>90</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>12.9</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>79</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>12.6</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>311</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>314</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>341</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>8.6</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>7.9</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>61</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>67</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>69</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>76</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>77</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>76</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>83</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>91</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>9.8</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>92</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>84</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>79</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>301</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>12.4</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>12.4</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>313</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>318</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>332</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>351</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>2</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>7</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>18</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>HAKFAR HAYAROK</LocationName>
+<LocationLatitude>32.13</LocationLatitude>
+<LocationLongitude>34.8324</LocationLongitude>
+<LocationHeight>69</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>311</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>307</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>11.1</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>312</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>292</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>9.6</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>271</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>9.1</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>274</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>270</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>282</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>304</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>84</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.4</Temperature>
+<RelativeHumidity>90</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>60</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>107</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>128</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>7.4</Temperature>
+<RelativeHumidity>86</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>145</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>154</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>161</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>157</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>157</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.1</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>232</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>256</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>278</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>13.2</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>298</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>12.8</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>322</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>11.5</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>348</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>11.3</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>22</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.5</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>54</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>9.9</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>57</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>9.5</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.6</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>49</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>49</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.9</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>4.7</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>57</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>64</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.1</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>30</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.6</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>22</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>15.5</Temperature>
+<RelativeHumidity>45</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>16.0</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>349</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>16.2</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>355</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>16.0</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>359</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>15.0</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>5.8</WindSpeed>
+<WindDirection>350</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>13.4</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>7.2</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>7.5</WindSpeed>
+<WindDirection>7</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>6.5</WindSpeed>
+<WindDirection>20</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>6.1</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>9.9</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>5.8</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>9.2</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.2</WindSpeed>
+<WindDirection>44</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.3</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>44</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>49</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.7</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.3</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>54</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>57</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>5.7</WindSpeed>
+<WindDirection>57</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>5.7</WindSpeed>
+<WindDirection>59</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>9.1</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>60</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>59</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.6</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.5</Temperature>
+<RelativeHumidity>39</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>28</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>15.0</Temperature>
+<RelativeHumidity>39</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>39</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>347</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>5.0</WindSpeed>
+<WindDirection>343</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>5.6</WindSpeed>
+<WindDirection>341</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>13.0</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>5.1</WindSpeed>
+<WindDirection>347</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.4</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>5.4</WindSpeed>
+<WindDirection>358</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.1</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>5.5</WindSpeed>
+<WindDirection>6</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.8</WindSpeed>
+<WindDirection>12</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.9</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>20</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>JERUSALEM CENTRE</LocationName>
+<LocationLatitude>31.7806</LocationLatitude>
+<LocationLongitude>35.2217</LocationLongitude>
+<LocationHeight>805</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>3.5</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>289</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>2.8</Temperature>
+<RelativeHumidity>96</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>285</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>2.4</Temperature>
+<RelativeHumidity>99</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>284</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>2.0</Temperature>
+<RelativeHumidity>98</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>2.1</Temperature>
+<RelativeHumidity>95</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>278</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>2.4</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>278</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>2.9</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>277</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>2.8</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>3.1</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>279</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>3.0</Temperature>
+<RelativeHumidity>90</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>2.8</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>2.9</Temperature>
+<RelativeHumidity>92</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>296</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>2.9</Temperature>
+<RelativeHumidity>91</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>310</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>316</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>87</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>296</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>3.4</Temperature>
+<RelativeHumidity>86</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>260</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>0.4</WindSpeed>
+<WindDirection>180</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>112</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>161</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>185</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>202</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>205</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>180</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>185</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>210</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>6.2</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>247</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>0.7</WindSpeed>
+<WindDirection>288</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>290</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>3.7</Temperature>
+<RelativeHumidity>80</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>335</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>351</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>26</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>44</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>3.6</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>34</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>2.6</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>3.4</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>5.6</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>28</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>6.7</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>26</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>8.4</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>21</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>9.9</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>10.6</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>24</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>22</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>8.6</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>39</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>333</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>348</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>4.3</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>3.6</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>357</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>3.6</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>3.3</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>3.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>4</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>2.7</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>9</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>2.4</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>10</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>2.2</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>11</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>2.1</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>12</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>2.7</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>13</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>5.7</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>8</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>33</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>8</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>9.5</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>345</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>9.4</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>335</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>330</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>7.4</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>307</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>307</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>314</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>305</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>5.0</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>309</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>311</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>LOD 12 IAA (LLBG12)</LocationName>
+<LocationLatitude>32.014795</LocationLatitude>
+<LocationLongitude>34.867093</LocationLongitude>
+<LocationHeight>32</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>53</RelativeHumidity>
+<WindSpeed>5.2</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>286</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>10.3</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>285</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>10.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>283</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>9.5</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>267</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>9.1</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>266</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>262</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.7</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>269</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>281</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>294</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>287</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.7</Temperature>
+<RelativeHumidity>85</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>339</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.0</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>89</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>92</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>88</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>129</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>7.2</Temperature>
+<RelativeHumidity>87</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>154</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.9</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>160</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>10.4</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>167</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>168</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>166</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>13.4</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>234</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>13.8</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>251</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>13.8</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>269</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>13.7</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>282</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>295</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>12.5</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>11.7</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>26</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.0</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>41</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.8</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>10.2</Temperature>
+<RelativeHumidity>77</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>9.7</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.9</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.4</Temperature>
+<RelativeHumidity>83</RelativeHumidity>
+<WindSpeed>2.6</WindSpeed>
+<WindDirection>37</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>8.4</Temperature>
+<RelativeHumidity>81</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>48</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.6</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>2.7</WindSpeed>
+<WindDirection>48</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>76</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>43</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>78</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>66</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>79</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>84</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>8.8</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>0.5</WindSpeed>
+<WindDirection>114</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>11.4</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>0.2</WindSpeed>
+<WindDirection>141</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>0.3</WindSpeed>
+<WindDirection>326</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>359</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>15.7</Temperature>
+<RelativeHumidity>46</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>343</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>16.4</Temperature>
+<RelativeHumidity>43</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>334</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>16.8</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>344</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>16.5</Temperature>
+<RelativeHumidity>41</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>353</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>15.8</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>4.7</WindSpeed>
+<WindDirection>352</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>5.9</WindSpeed>
+<WindDirection>346</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.7</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>6.5</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>6.0</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.0</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>5.3</WindSpeed>
+<WindDirection>29</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.1</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>36</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>38</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>8.5</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>42</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>8.2</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>8.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>45</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>7.7</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>47</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>7.5</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>50</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>7.3</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>4.1</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>7.1</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>52</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>6.8</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>54</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>6.9</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>55</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>9.3</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>54</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>12.2</Temperature>
+<RelativeHumidity>52</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>47</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>14.0</Temperature>
+<RelativeHumidity>40</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>27</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>14.8</Temperature>
+<RelativeHumidity>37</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>17</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>15.4</Temperature>
+<RelativeHumidity>35</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>3</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>15.7</Temperature>
+<RelativeHumidity>35</RelativeHumidity>
+<WindSpeed>3.4</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>15.6</Temperature>
+<RelativeHumidity>38</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>345</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>15.2</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>340</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>14.5</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>4.7</WindSpeed>
+<WindDirection>337</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>13.3</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>4.6</WindSpeed>
+<WindDirection>337</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>12.3</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.2</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>12.0</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>7</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>11.6</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>18</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>10.7</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>32</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>9.8</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>2.1</WindSpeed>
+<WindDirection>46</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+<Location>
+<LocationMetaData>
+<LocationName>ZEFAT HAR KENAAN</LocationName>
+<LocationLatitude>32.98</LocationLatitude>
+<LocationLongitude>35.507</LocationLongitude>
+<LocationHeight>936</LocationHeight>
+</LocationMetaData>
+<LocationData>
+<Forecast>
+<ForecastTime>8/2/2023 14:00 UTC</ForecastTime>
+<Temperature>3.0</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 15:00 UTC</ForecastTime>
+<Temperature>2.7</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>325</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 16:00 UTC</ForecastTime>
+<Temperature>2.3</Temperature>
+<RelativeHumidity>75</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>324</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 17:00 UTC</ForecastTime>
+<Temperature>2.2</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>322</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 18:00 UTC</ForecastTime>
+<Temperature>2.1</Temperature>
+<RelativeHumidity>72</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>321</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 19:00 UTC</ForecastTime>
+<Temperature>1.9</Temperature>
+<RelativeHumidity>74</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>315</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 20:00 UTC</ForecastTime>
+<Temperature>1.7</Temperature>
+<RelativeHumidity>73</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>313</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 21:00 UTC</ForecastTime>
+<Temperature>1.7</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>308</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 22:00 UTC</ForecastTime>
+<Temperature>1.6</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>309</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>8/2/2023 23:00 UTC</ForecastTime>
+<Temperature>1.5</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 0:00 UTC</ForecastTime>
+<Temperature>1.6</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>322</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 1:00 UTC</ForecastTime>
+<Temperature>1.9</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>323</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 2:00 UTC</ForecastTime>
+<Temperature>1.6</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>332</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 3:00 UTC</ForecastTime>
+<Temperature>1.6</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>352</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 4:00 UTC</ForecastTime>
+<Temperature>1.5</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>359</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 5:00 UTC</ForecastTime>
+<Temperature>1.6</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>0.2</WindSpeed>
+<WindDirection>90</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 6:00 UTC</ForecastTime>
+<Temperature>1.8</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>144</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 7:00 UTC</ForecastTime>
+<Temperature>2.2</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>161</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 8:00 UTC</ForecastTime>
+<Temperature>2.6</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>1.7</WindSpeed>
+<WindDirection>172</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 9:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>194</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 10:00 UTC</ForecastTime>
+<Temperature>3.7</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>217</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 11:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>226</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 12:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>1.3</WindSpeed>
+<WindDirection>253</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 13:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>275</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 14:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>0.8</WindSpeed>
+<WindDirection>291</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 15:00 UTC</ForecastTime>
+<Temperature>4.5</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.1</WindSpeed>
+<WindDirection>293</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 16:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>337</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 17:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>355</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 18:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.0</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 19:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>7</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.3</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>22</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 21:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.9</WindSpeed>
+<WindDirection>58</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 22:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>63</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>9/2/2023 23:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>70</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 0:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>64</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>73</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 1:00 UTC</ForecastTime>
+<Temperature>3.7</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>77</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 2:00 UTC</ForecastTime>
+<Temperature>3.7</Temperature>
+<RelativeHumidity>67</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>75</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 3:00 UTC</ForecastTime>
+<Temperature>3.5</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.9</WindSpeed>
+<WindDirection>78</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 4:00 UTC</ForecastTime>
+<Temperature>3.4</Temperature>
+<RelativeHumidity>69</RelativeHumidity>
+<WindSpeed>4.0</WindSpeed>
+<WindDirection>82</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 5:00 UTC</ForecastTime>
+<Temperature>3.5</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>3.8</WindSpeed>
+<WindDirection>70</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 6:00 UTC</ForecastTime>
+<Temperature>3.7</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>70</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 7:00 UTC</ForecastTime>
+<Temperature>3.9</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>4.4</WindSpeed>
+<WindDirection>78</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 8:00 UTC</ForecastTime>
+<Temperature>4.2</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>3.6</WindSpeed>
+<WindDirection>76</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 9:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>62</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>86</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 10:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>2.4</WindSpeed>
+<WindDirection>91</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 11:00 UTC</ForecastTime>
+<Temperature>6.0</Temperature>
+<RelativeHumidity>58</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>100</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 12:00 UTC</ForecastTime>
+<Temperature>6.5</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.0</WindSpeed>
+<WindDirection>130</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 13:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>148</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 14:00 UTC</ForecastTime>
+<Temperature>6.4</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>0.9</WindSpeed>
+<WindDirection>156</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 15:00 UTC</ForecastTime>
+<Temperature>5.8</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>0.4</WindSpeed>
+<WindDirection>294</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 16:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>1.9</WindSpeed>
+<WindDirection>335</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.1</Temperature>
+<RelativeHumidity>71</RelativeHumidity>
+<WindSpeed>3.3</WindSpeed>
+<WindDirection>341</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 18:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>70</RelativeHumidity>
+<WindSpeed>3.5</WindSpeed>
+<WindDirection>344</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 19:00 UTC</ForecastTime>
+<Temperature>4.8</Temperature>
+<RelativeHumidity>68</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>348</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.6</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.5</WindSpeed>
+<WindDirection>352</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 21:00 UTC</ForecastTime>
+<Temperature>4.3</Temperature>
+<RelativeHumidity>66</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>355</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 22:00 UTC</ForecastTime>
+<Temperature>4.0</Temperature>
+<RelativeHumidity>65</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>1</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>10/2/2023 23:00 UTC</ForecastTime>
+<Temperature>3.8</Temperature>
+<RelativeHumidity>63</RelativeHumidity>
+<WindSpeed>2.0</WindSpeed>
+<WindDirection>5</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 0:00 UTC</ForecastTime>
+<Temperature>3.6</Temperature>
+<RelativeHumidity>60</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>9</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 1:00 UTC</ForecastTime>
+<Temperature>3.4</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>1.6</WindSpeed>
+<WindDirection>16</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 2:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>57</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>24</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 3:00 UTC</ForecastTime>
+<Temperature>3.1</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>1.4</WindSpeed>
+<WindDirection>35</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 4:00 UTC</ForecastTime>
+<Temperature>3.1</Temperature>
+<RelativeHumidity>51</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 5:00 UTC</ForecastTime>
+<Temperature>3.0</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>40</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 6:00 UTC</ForecastTime>
+<Temperature>3.2</Temperature>
+<RelativeHumidity>50</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>56</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 7:00 UTC</ForecastTime>
+<Temperature>3.5</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>2.2</WindSpeed>
+<WindDirection>68</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 8:00 UTC</ForecastTime>
+<Temperature>4.1</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>1.8</WindSpeed>
+<WindDirection>77</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 9:00 UTC</ForecastTime>
+<Temperature>4.7</Temperature>
+<RelativeHumidity>49</RelativeHumidity>
+<WindSpeed>1.2</WindSpeed>
+<WindDirection>93</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 10:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>47</RelativeHumidity>
+<WindSpeed>0.4</WindSpeed>
+<WindDirection>105</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 11:00 UTC</ForecastTime>
+<Temperature>6.1</Temperature>
+<RelativeHumidity>44</RelativeHumidity>
+<WindSpeed>0.6</WindSpeed>
+<WindDirection>214</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 12:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>1.5</WindSpeed>
+<WindDirection>236</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 13:00 UTC</ForecastTime>
+<Temperature>6.6</Temperature>
+<RelativeHumidity>42</RelativeHumidity>
+<WindSpeed>2.3</WindSpeed>
+<WindDirection>249</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 14:00 UTC</ForecastTime>
+<Temperature>5.9</Temperature>
+<RelativeHumidity>48</RelativeHumidity>
+<WindSpeed>2.8</WindSpeed>
+<WindDirection>298</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 15:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>55</RelativeHumidity>
+<WindSpeed>4.5</WindSpeed>
+<WindDirection>333</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 16:00 UTC</ForecastTime>
+<Temperature>5.3</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>4.9</WindSpeed>
+<WindDirection>347</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 17:00 UTC</ForecastTime>
+<Temperature>5.4</Temperature>
+<RelativeHumidity>54</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>347</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 18:00 UTC</ForecastTime>
+<Temperature>5.2</Temperature>
+<RelativeHumidity>56</RelativeHumidity>
+<WindSpeed>4.3</WindSpeed>
+<WindDirection>351</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 19:00 UTC</ForecastTime>
+<Temperature>4.9</Temperature>
+<RelativeHumidity>59</RelativeHumidity>
+<WindSpeed>3.7</WindSpeed>
+<WindDirection>354</WindDirection>
+</Forecast>
+<Forecast>
+<ForecastTime>11/2/2023 20:00 UTC</ForecastTime>
+<Temperature>4.6</Temperature>
+<RelativeHumidity>61</RelativeHumidity>
+<WindSpeed>3.1</WindSpeed>
+<WindDirection>356</WindDirection>
+</Forecast>
+</LocationData>
+</Location>
+</HourlyLocationsForecast>
