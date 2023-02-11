@@ -2,11 +2,7 @@
 function login()
 {
     // Прячем кнопку.
-        $("#mail").hide();
-        $("#password").hide();
         $("#login").hide();
-        $("#e-mail").hide();
-        $("#phone").hide();
 
         // Считываем почту и телефон
         var login_email = document.getElementById("mail").value;
@@ -41,12 +37,8 @@ function login()
                     $("#output").show();
                     document.getElementById("output").innerHTML = "<b>Authentification FAILED. Please try again!</b>";
 
-                    // Достаем окно ввода имени и кнопку.
-                    $("#mail").show();
-                    $("#password").show();
+                    // Достаем кнопку.
                     $("#login").show();
-                    $("#e-mail").show();
-                    $("#phone").show();
                 }
                 else // При успешной аутентификации
                 {

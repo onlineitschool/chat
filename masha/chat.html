@@ -13,13 +13,17 @@
     <! -- Это для тестирования -->
     <table width="99.5%">
         <tr width="100%"> 
-            <td width="80%" id = "all_msg"><p><b>All messages of the chat:</b></p></td>
+            <td width="80%" id = "all_msg"><p><b> Messages of the chat:</b></p></td>
             <td width="20%" id = "number_msg">Number of messages:  <b id="report"></b></td>
         </tr>
     </table>    
     <! -- Это окно чата -->
     <div id="block">
-        <p id="bottom"></p>   
+        <! -- Две кнопки для подгрузки более старых сообщений. 
+            Надо бы выводить в этой кнопке переменный текст. --> 
+        <button id="get_more" onclick="getMore()"></button>
+        <button id="get_rest" onclick="getRest()">Get all other messages</button>
+        <br>    
     </div> 
 
     <table width="99.5%">
@@ -59,17 +63,25 @@
 <script>
 
     // Программа состоит из трех блоков, вынесенных в отдельные .js-файлы.
-    // 1. Аутентификация пользователя (логин-пароль) - authefication.js
-    // 2. Загрузка сообщений с сервера раз в 0,5 с - update_msg.js
+    // 1. Аутентификация пользователя (логин-пароль) - authentification.js
+    // 2. Проверка наличия новых сообщений и их загрузка - update_msg.js
     // 3. Отправка нового сообщения - send_msg.js
+
+    var block = document.getElementById("block");
+
+    const how_long = 500; // Как часто проверяем наличие новых сообщений (500 = 2 раза в сек)
+    const how_many = 50; // Сколько старых сообщений загружаем в окно чата без доп. запроса
 
     var user; // Объект, состоящий из токена и объекта, состоящего из имени и фамилии пользователя.
     var token; // Токен - это строка, передаваемая вместе с каждым сообщением пользователя.
     var name; // Имя пользователя.
-    var surname; // Фамилия пользователя.   
+    var surname; // Фамилия пользователя (сейчас не используется в программе).   
 
     var last_message = 0; // Количество сообщений на сервере, по нашим данным.
-    var last_downloaded = 0; // Количество загруженных с сервера сообщений.
+    var start = false; // еще не начали ничего загружать.
+    var first_downloaded; // Номер первого загруженного с сервера сообщения.
+    var last_downloaded; // Номер последнего загружанного с сервера сообщения.
+
 
     window.onload = function() 
     {
@@ -87,6 +99,15 @@
         $("#send_message").hide();
         $("#my_message").hide();
         $("#b_send_get_msg").hide();
+
+        //Прячем кнопки дозагрузки сообщений
+        $("#get_rest").hide();
+        $("#get_more").hide();
+        
+        // Пишем текст в кнопку дозагрузки сообщений
+        document.getElementById("get_more").innerHTML = 'Get ' + how_many + ' more messages';
+
+        // Дальнейшие действия инициируются нажатием пользователя на кнопки.
     };
 
     // Убираем надпись "Default name" при попытке ввода другого имени

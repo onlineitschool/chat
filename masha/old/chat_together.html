@@ -4,7 +4,7 @@
     <script src="js/jquery360.js"></script>
 
     <script src="js/authentification.js"></script>
-    <script src="js/update_msg_2.js"></script> 
+    <script src="js/update_msg.js"></script> 
     <script src="js/send_msg.js"></script>  
 
     <link rel="stylesheet" href='css/my_style.css'>
@@ -59,24 +59,17 @@
 <script>
 
     // Программа состоит из трех блоков, вынесенных в отдельные .js-файлы.
-    // 1. Аутентификация пользователя (логин-пароль) - authentification.js
-    // 2. Проверка наличия новых сообщений и их загрузка - update_msg.js
+    // 1. Аутентификация пользователя (логин-пароль) - authefication.js
+    // 2. Загрузка сообщений с сервера раз в 0,5 с - update_msg.js
     // 3. Отправка нового сообщения - send_msg.js
-
-    var block = document.getElementById("block");
-
-    const how_long = 500; // Как часто проверяем наличие новых сообщений (500 = 2 раза в сек)
-    const how_many = 50; // Сколько сообщений загружаем в окно чата без доп. запроса
 
     var user; // Объект, состоящий из токена и объекта, состоящего из имени и фамилии пользователя.
     var token; // Токен - это строка, передаваемая вместе с каждым сообщением пользователя.
     var name; // Имя пользователя.
-    var surname; // Фамилия пользователя (сейчас не используется в программе).   
+    var surname; // Фамилия пользователя.   
 
     var last_message = 0; // Количество сообщений на сервере, по нашим данным.
-    var first_downloaded = 0; // Номер первого загруженного нами сообщения.
-    var last_downloaded = 0; // Номер последнего загружанного с сервера сообщения.
-    var pages_downloaded = 0; // Количество загруженных страниц по how-many сообщений
+    var last_downloaded = 0; // Количество загруженных с сервера сообщений.
 
     window.onload = function() 
     {
@@ -94,8 +87,6 @@
         $("#send_message").hide();
         $("#my_message").hide();
         $("#b_send_get_msg").hide();
-
-        // Дальнейшие действия инициируются нажатием пользователя на кнопки.
     };
 
     // Убираем надпись "Default name" при попытке ввода другого имени
