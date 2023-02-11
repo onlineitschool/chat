@@ -19,8 +19,7 @@
     </table>    
     <! -- Это окно чата -->
     <div id="block">
-        <! -- Две кнопки для подгрузки более старых сообщений. 
-            Надо бы выводить в этой кнопке переменный текст. --> 
+        <! -- Две кнопки для подгрузки более старых сообщений. --> 
         <button id="get_more" onclick="getMore()"></button>
         <button id="get_rest" onclick="getRest()">Get all other messages</button>
         <br>    
@@ -31,14 +30,14 @@
             <td width="10%">
                 <b id="e-mail">E-mail:</b>
                 <! -- Это поле ввода электронной почты -->
-                <input id="mail" value="posicel@gmail.com"></input>
+                <input id="mail"></input>
                 <br>
                 <! -- В этом поле выводится имя пользователя -->
                 <span id="name"></span>
                 <br>
                 <b id="phone">Phone:</b>
                 <! -- Это поле ввода телефона -->
-                <input id="password" value="1"></input>
+                <input id="password"></input>
                 <br>
                 <br>
                 <button onclick="login()" id="login">Login</button> 
