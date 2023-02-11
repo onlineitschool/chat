@@ -13,7 +13,7 @@ function login()
         var login_password = document.getElementById("password").value;
 
         // Убираем сообщение о неуспехе аутентификации.
-        //$("#output").hide();
+        $("#output").hide();
 
         var ajax_data = 
         {
