@@ -1,0 +1,61 @@
+<html>
+    <meta charset="UTF-8">
+<head>
+    <h1>Form for uploading vacancies</h1>
+</head>
+<body>
+    <table style = "width:100%">
+        <tr style='vertical-align: top';>
+            <td style = "width:24%">
+                <form action="/action_page.php">
+                    <fieldset>
+                        <legend>Job advertisement</legend>
+                        <label for="fname">Publication date</label>
+                        <input type="date" id="publ_date" name="publ_date"><br>
+                        <br>
+                        <label for="fname">Reference to the ad</label><br>
+                        <input type="url" style = "width:100%"><br>
+                        <br>
+                        <label for="fname">Platform that posted the ad</label>
+                        <input type="text" id="platform" name="publ_date"><br>
+                    </fieldset>
+                    <fieldset>
+                        <legend>Company</legend>
+                        <label for="fname">Company name</label><br>
+                        <input type="textarea" id="company_name" name="company_name" style = "width:100%"><br>
+                        <br>
+                        <label for="fname">Person to contact</label><br>
+                        <input type="text" id="person" name="person" style = "width:100%"><br>
+                        <br>
+                        <label for="fname">Phone</label><br>
+                        <input type="text" id="phone" name="phone" style = "width:100%"><br>
+                        <br>
+                        <label for="fname">e-mail</label><br>
+                        <input type="email" id="e-mail" name="e-mail" style = "width:100%">
+                    </fieldset>
+                    <br>
+                    <label for="fname">The operator entered the information</label><br>
+                    <input type="text" id="fname" name="fname" style = "width:100%"><br>
+                  </form>
+            </td>
+            <td>
+                <form>
+                    <fieldset>
+                        <legend>Vacancy</legend>
+                            <label for="fname">Profession</label>
+                            <input type="textarea" id="platform" name="publ_date">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                            <label for="fname">City</label>
+                            <input type="textarea" id="platform" name="publ_date"><br>
+                            <br>
+                            <label for="fname">Keywords</label><br>
+                            <textarea name="message" rows="1" style = "width:100%"></textarea> <br>
+                            <br>
+                            <label for="fname">Text of the ad</label><br>
+                            <textarea name="message" rows="20" style = "width:100%"></textarea>
+                    </fieldset>
+                </form>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
